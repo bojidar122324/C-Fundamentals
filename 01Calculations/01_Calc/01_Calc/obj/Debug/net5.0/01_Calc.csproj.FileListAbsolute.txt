@@ -1,0 +1,16 @@
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\bin\Debug\net5.0\01_Calc.exe
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\bin\Debug\net5.0\01_Calc.deps.json
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\bin\Debug\net5.0\01_Calc.runtimeconfig.json
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\bin\Debug\net5.0\01_Calc.runtimeconfig.dev.json
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\bin\Debug\net5.0\01_Calc.dll
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\bin\Debug\net5.0\01_Calc.pdb
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\obj\Debug\net5.0\01_Calc.csproj.AssemblyReference.cache
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\obj\Debug\net5.0\01_Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\obj\Debug\net5.0\01_Calc.AssemblyInfoInputs.cache
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\obj\Debug\net5.0\01_Calc.AssemblyInfo.cs
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\obj\Debug\net5.0\01_Calc.csproj.CoreCompileInputs.cache
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\obj\Debug\net5.0\01_Calc.dll
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\obj\Debug\net5.0\refint\01_Calc.dll
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\obj\Debug\net5.0\01_Calc.pdb
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\obj\Debug\net5.0\01_Calc.genruntimeconfig.cache
+D:\1code\C-Fundamentals\01Calculations\01_Calc\01_Calc\obj\Debug\net5.0\ref\01_Calc.dll
